@@ -3,18 +3,17 @@
 
 I live to learn and build purposeful technology. Currently, my path branches into:
 
-- 🌐 Cutting-edge Web Development
-- 🔐 Robust Cybersecurity Solutions
-- 🤖 Intelligent Machine Learning Systems
+- 🌐 Web Development
+- 🔐 Developing Security Solutions  
+- 🤖 Building with Machine Learning  
 
 ## 📌 About Me  
 📍 **Based in:** Cochabamba, Bolivia  
 🎓 **Pursuing:** Systems Engineering at Universidad Mayor de San Simón  
-🔥 **Current Focus:** Full-Stack Development | Security Engineering | AI Fundamentals  
-📚 **Currently Mastering:** Vue.js ecosystem | Web Application Security | ML Algorithms  
+🔥 **Current Focus:** Full-Stack Development | Security Engineering | AI Fundamentals    
 🤝 **Collaboration Style:** Team-oriented with strong problem-solving skills and knowledge-sharing mindset  
 🗣️ **Languages:** Native Spanish | Intermediate English  
-💡 **Motto:** "Every challenge is an opportunity in disguise"
+💡 **Motto:** "What's the worst that could happen?"
 
 ---
 
