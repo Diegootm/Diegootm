@@ -1,4 +1,6 @@
 # Hello! 👋 I'm Diego Tejerina
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Diegootm.Diegootm&left_color=brown&right_color=darkorange"  />
+<br>
 💻 Aspiring Systems Engineer | 🧠 Problem Solver | 🚀 Tech Innovator
 
 I live to learn and build purposeful technology. Currently, my path branches into:
@@ -19,26 +21,38 @@ I live to learn and build purposeful technology. Currently, my path branches int
 
 ## 🛠️ Technologies & Skills  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="40" title="Java" />
-  <img src="https://skillicons.dev/icons?i=py" width="40" title="Python" />
-  <img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" width="40" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=vue" width="40" title="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=linux" width="40" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" title="Git" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ---
 
 ## 📊 Development Analytics
+![](https://github-readme-stats.vercel.app/api?username=Diegootm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Diegootm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegootm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Coding Commitment](https://github-readme-streak-stats.herokuapp.com?user=Diegootm&theme=nightowl&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&dates=58A6FF)](https://git.io/streak-stats)
-
-[![Productivity Metrics](https://github-readme-stats.vercel.app/api?username=Diegootm&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true)](https://github.com/Diegootm)
-
-[![Language Expertise](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegootm&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6)](https://github.com/Diegootm)
 
 ### 🌍 Let's Build the Future Together  
 [![Professional Network](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-diego-tejerina-molina-ba3a28353/)
