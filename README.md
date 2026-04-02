@@ -10,7 +10,7 @@ I live to learn and build purposeful technology. Currently, my path branches int
 - 🤖 Building with Machine Learning  
 
 ## 📌 About Me  
-📍 **Based in:** Cochabamba, Bolivia  
+📍 **Born in:** Cochabamba, Bolivia  
 🎓 **Pursuing:** Systems Engineering at Universidad Mayor de San Simón  
 🔥 **Current Focus:** Full-Stack Development | Security Engineering | AI Fundamentals    
 🤝 **Collaboration Style:** Team-oriented with strong problem-solving skills and knowledge-sharing mindset  
@@ -49,9 +49,11 @@ I live to learn and build purposeful technology. Currently, my path branches int
 ---
 
 ## 📊 Development Analytics
-![](https://github-readme-stats.vercel.app/api?username=Diegootm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Diegootm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegootm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diegootm/Diegootm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diegootm/Diegootm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diegootm/Diegootm/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ### 🌍 Let's Build the Future Together  
