@@ -49,7 +49,13 @@ I live to learn and build purposeful technology. Currently, my path branches int
 ---
 
 ## 📊 Development Analytics
-<img src="https://raw.githubusercontent.com/Diegootm/Diegootm/output/snake.svg" alt="Snake animation" />
+<p >
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</p>
 
 
 ### 🌍 Let's Build the Future Together  
