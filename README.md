@@ -1,7 +1,7 @@
-
+## Hey, here! 
 
 <img  align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTMzY2M1eTZnNHFja21pOGhweHJrbDFpM2hjZmJmNXpuNm1wbXo5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QLu57sUrSdVpBC4Wni/giphy.gif" height="300px">
-## Hey, here! 
+
 
 I'm Diego, a Systems Engineering student from Bolivia. I love web design and development, and I'm equally passionate about cybersecurity.
 
